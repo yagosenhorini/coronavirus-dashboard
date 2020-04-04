@@ -1,0 +1,4 @@
+*-lock.json
+-error.log
+node_modules
+*.lock
